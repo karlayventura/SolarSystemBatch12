@@ -17,7 +17,7 @@ public class Main {
 
         // Add feature to our star
         FeatureStars facX = new FeatureStars();
-        facX.color=green;
+        facX.color="green";
         facX.radius="948654jg";
         facX.size="777";
     }
