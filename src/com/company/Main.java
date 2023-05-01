@@ -9,5 +9,10 @@ public class Main {
         factorX.planet="2";
         factorX.star="10000";
 
+        // Add features to our sun
+        FeatureSun xFact = new FeatureSun();
+        xFact.color="green";
+        xFact.radius="100000000km";
+        xFact.heat="395739593kj";
     }
 }
