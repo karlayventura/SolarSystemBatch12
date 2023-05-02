@@ -20,5 +20,11 @@ public class Main {
         facX.color="green";
         facX.radius="948654jg";
         facX.size="777";
+
+        // Add feature to Planet1
+        Planet1Feature gulk = new Planet1Feature();
+        gulk.color="blue";
+        gulk.size="8305853km";
+        gulk.name="preachex";
     }
 }
