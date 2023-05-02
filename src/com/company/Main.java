@@ -20,5 +20,12 @@ public class Main {
         facX.color="green";
         facX.radius="948654jg";
         facX.size="777";
+
+        // Add feature to Planet2
+        Planet2Feature olso = new Planet2Feature();
+        olso.name="Ozhan";
+        olso.size="94834km";
+        olso.color="pink";
+
     }
 }
